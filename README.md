@@ -147,5 +147,8 @@ Author | سازنده
 
 Made for developers who want cleaner debugging with less noise.
 
+-Note
+
+do not use while installing this package mirrors.🚫🚫
 
 -Sobhan
