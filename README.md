@@ -39,8 +39,6 @@ English:
 
 Installation | نصب
 
-From PyPI:
-pip install debugkit
 
 Local install:
 pip install -e .
