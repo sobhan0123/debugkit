@@ -119,5 +119,9 @@ MIT License
 ---
 
 Author | سازنده
+
+
 Made for developers who want cleaner debugging with less noise.
+
+
 -Sobhan
