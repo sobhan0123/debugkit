@@ -52,30 +52,44 @@ Installation on Linux and macOS | نصب در لینوکس و مک
 
 English:
 python3 --version
+
 pip3 --version
+
 pip3 install debugkit
 
 git clone https://github.com/sobhan0123/debugkit.git
+
+
 cd debugkit
+
+
 pip3 install .
 
 (Optional)
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install debugkit
 
 فارسی:
 python3 --version
+
 pip3 --version
+
 pip3 install debugkit
 
 
 cd debugkit
+
 pip3 install .
 
 (اختیاری)
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install debugkit
 
 ---
@@ -84,11 +98,15 @@ Usage | نحوه استفاده
 
 Debug variables:
 from debugkit import debug
+
 x = 10
+
 y = 20
+
 debug(x, y)
 
 Show all variables:
+
 def compute():
     a = 1
     b = 2
