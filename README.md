@@ -39,10 +39,9 @@ English:
 
 Installation | نصب
 
-download repository 
+download repository(zip)
 
-cd debugkit-main
-
+cd debugkit-main\debugkit-main
 
 Local install:
 pip install -e .
