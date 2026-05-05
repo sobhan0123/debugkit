@@ -149,6 +149,6 @@ Made for developers who want cleaner debugging with less noise.
 
 -Note
 
-do not use while installing this package mirrors.🚫🚫
+do not use mirrors while installing this package.🚫🚫
 
 -Sobhan
