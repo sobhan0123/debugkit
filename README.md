@@ -41,7 +41,7 @@ Installation | نصب
 
 download repository 
 
-cd debugkit--main
+cd debugkit-main
 
 
 Local install:
