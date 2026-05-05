@@ -44,7 +44,7 @@ download repository(zip)
 cd debugkit-main\debugkit-main
 
 Local install:
-pip install -e .
+pip install .
 
 ---
 
@@ -55,9 +55,9 @@ python3 --version
 pip3 --version
 pip3 install debugkit
 
-git clone https://github.com/your-username/debugkit.git
+git clone https://github.com/sobhan0123/debugkit.git
 cd debugkit
-pip3 install -e .
+pip3 install .
 
 (Optional)
 python3 -m venv venv
@@ -69,9 +69,9 @@ python3 --version
 pip3 --version
 pip3 install debugkit
 
-git clone https://github.com/your-username/debugkit.git
+
 cd debugkit
-pip3 install -e .
+pip3 install .
 
 (اختیاری)
 python3 -m venv venv
