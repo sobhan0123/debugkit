@@ -36,6 +36,9 @@ English:
 - بسیار سبک و قابل استفاده سریع در کدهای موجود
 
 ---
+download repository 
+
+cd debugkit--main
 
 Installation | نصب
 
