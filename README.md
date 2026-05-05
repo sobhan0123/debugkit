@@ -36,11 +36,12 @@ English:
 - بسیار سبک و قابل استفاده سریع در کدهای موجود
 
 ---
+
+Installation | نصب
+
 download repository 
 
 cd debugkit--main
-
-Installation | نصب
 
 
 Local install:
