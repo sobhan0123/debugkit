@@ -74,6 +74,7 @@ source venv/bin/activate
 pip install debugkit
 
 فارسی:
+
 python3 --version
 
 pip3 --version
@@ -86,6 +87,7 @@ cd debugkit
 pip3 install .
 
 (اختیاری)
+
 python3 -m venv venv
 
 source venv/bin/activate
